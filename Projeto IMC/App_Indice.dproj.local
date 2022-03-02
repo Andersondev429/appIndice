@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/08 16:06:15.000.484,=C:\Users\loja\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 16:09:43.000.940,C:\Users\loja\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/10/08 16:09:43.000.940,C:\Users\loja\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uFrmPrincipal.pas</Transaction>
+    <Transaction>2021/10/08 16:10:04.000.161,C:\Users\loja\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\App_Indice.dproj</Transaction>
+    <Transaction>2021/10/08 16:43:43.000.469,=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 16:44:01.000.201,C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.pas=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uFrmRequisitos.pas</Transaction>
+    <Transaction>2021/10/08 16:44:01.000.201,C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.dfm=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uFrmRequisitos.dfm</Transaction>
+    <Transaction>2021/10/08 17:04:32.000.419,=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 17:04:40.000.970,C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.dfm=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uFrmResultado.dfm</Transaction>
+    <Transaction>2021/10/08 17:04:40.000.970,C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.pas=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uFrmResultado.pas</Transaction>
+    <Transaction>2021/10/08 17:21:37.000.584,=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 17:22:02.000.267,C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\Unit1.pas=C:\Users\loja\OneDrive\Área de Trabalho\Códigos, projetos e estudos\Delphi\Projeto IMC\uDadosPessoa.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uDadosPessoa.pas"/>
+    <File Path="uFrmPrincipal.pas"/>
+    <File Path="uFrmPrincipal.dfm"/>
+    <File Path="uFrmRequisitos.pas"/>
+    <File Path="uFrmRequisitos.dfm"/>
+    <File Path="uFrmResultado.pas"/>
+    <File Path="uFrmResultado.dfm"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
